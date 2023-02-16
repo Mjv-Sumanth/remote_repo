@@ -1,1 +1,2 @@
 first line in devA
+line2 added by devB
